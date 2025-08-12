@@ -1,4 +1,4 @@
-# 🎙️ Voice RAG with OpenAI SDK
+# 🎤 🎙️ Voice-Based RAG App - Talk to Your Documents
 
 A voice-enabled Retrieval-Augmented Generation (RAG) application built with **OpenAI's SDK** and **Streamlit**.  
 It lets you upload PDF documents, ask questions, and receive both **text** and **voice** answers using OpenAI’s **Text-to-Speech (TTS)**.
